@@ -15,5 +15,11 @@
   "dependencies": {
     "express": "^4.19.2",
     "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "mongoose": "^8.5.0",
+    "sinon": "^18.0.0",
+    "supertest": "^7.0.0",
+    "vitest": "^2.0.2"
   }
 }
